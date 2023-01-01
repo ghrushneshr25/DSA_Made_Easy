@@ -7,7 +7,7 @@
 
 ## Recursion
 
-[Tower of Hanoi](Recusrion/TowerOfHanoi.java)
+[Tower of Hanoi](Recursion/TowerOfHanoi.java)
 
 
 
